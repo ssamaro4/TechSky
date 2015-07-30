@@ -1,0 +1,98 @@
+body{
+
+background-image: url(BACK.jpg);
+    background-repeat: no-repeat;
+background-size: cover;
+}
+
+h1{
+text-align: center;
+
+
+
+}
+h3{
+float: left;
+
+
+
+}
+#List{
+float: left;
+    font-size: 16.25px;
+  
+ background-color:white;
+    width: px;
+    text-align: right;
+       
+}
+#form{
+    background-color:skyblue;
+    padding:80px;
+border-style:groove;
+    border-color:yellow;
+ border-width: 10px;
+font-size:16px;
+text-align:center;
+  width: 500px;
+    margin: auto;
+    
+    
+    
+}
+h4{
+float right;
+
+
+}
+
+#summary{
+background-color:skyblue;
+    padding:4px;
+border-style:groove;
+    border-color:gold;
+ border-width: 10px;
+font-size:16px;
+text-align:center;
+width: 1000px;
+
+  margin: auto;
+    
+    
+
+
+
+}
+
+#resultC{
+background-color: white;
+    width: 220px;
+    padding-left: 10px; 
+
+
+}
+
+p{float: center;}
+#sub{
+float: right;
+
+
+}
+#banner{
+
+border-bottom-style: double;
+    border-color: yellow;
+    padding: 50px;
+    border-radius: 45px;
+    border-width: 50px;
+
+
+}
+#foot2{
+  float: left;
+    font-size: 12px;  
+}
+#foot{
+float: right;
+    font-size: 12px;
+}
