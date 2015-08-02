@@ -1,0 +1,73 @@
+body {
+    background: url("../Images/BACK.jpg");
+    background-repeat: no-repeat;
+    background-size: cover; 
+    font: 18px;
+}
+
+.logo img {
+    display:block;
+    margin:auto;
+}
+
+ul {
+   
+    float=center;
+    padding: 10px;
+  text-align: center;
+    list-style-type: none;
+}
+
+a {
+    text-align: center;
+    width: 6em;
+    text-decoration: none;
+    color: black;
+    background-color: yellow;
+    padding:10px;
+    border-right: 1px solid black;
+
+}
+
+a:hover {
+    background-color: skyblue;
+}
+
+li {
+    display: inline;
+    padding-right: 20px;
+}
+
+table table * img {
+    height: 150px;
+    width: 250px;
+}
+
+* p{
+    width: 250px;
+}
+#c{float:center;margin:auto;}
+
+#sub{
+float: right;
+
+
+}
+#banner{
+
+border-bottom-style: double;
+    border-color: yellow;
+    padding: 50px;
+    border-radius: 45px;
+    border-width: 50px;
+
+
+}
+#foot2{
+  float: left;
+    font-size: 12px;  
+}
+#foot{
+float: right;
+    font-size: 12px;
+}
